@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hey there! 👋
 
-<!--
-**du84n0v/du84n0v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sadrddin WHO Java Backend Developer and Problem Solver
 
-Here are some ideas to get you started:
+My focus is always split between professional backend projects and personal skill enhancement
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I believe in using the right tool for the job. Here is my core toolkit:
+Java, Spring Boot, Git, PostgresSQL, REST API, Data Structure, Hibernate, Algorithms
+
+I am always open to interesting conversations, collaborative projects, or discussions about elegant code:
+
+-   💻 **GitHub:** github.com/du84n0v
+-   📨 **Email:** sadriddindusanov@email.com 
+-   💬 **Telegram:** @du84n0v
