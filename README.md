@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm Sadrddin WHO Java Backend Developer and Problem Solver
+I'm Sadriddin WHO Java Backend Developer and Problem Solver
 
 My focus is always split between professional backend projects and personal skill enhancement
 
