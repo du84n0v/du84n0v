@@ -10,5 +10,5 @@ Java, Spring Boot, Git, PostgresSQL, REST API, Data Structure, Hibernate, Algori
 I am always open to interesting conversations, collaborative projects, or discussions about elegant code:
 
 -   💻 **GitHub:** github.com/du84n0v
--   📨 **Email:** sadriddindusanov@email.com 
+-   📨 **Email:** sadriddindusanov@gmail.com 
 -   💬 **Telegram:** @du84n0v
