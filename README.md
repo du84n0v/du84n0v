@@ -1,5 +1,15 @@
 # 💫 About Me:
-Scalable backend services and RESTful APIs using Spring Boot<br>Open-source Java projects and robust backend architectures<br>Advanced system design and distributed cloud systems<br>Microservices architecture, Docker, and Redis caching<br>Java, Spring Boot, PostgreSQL, and Data Structures & Algorithms<br>I balance out technical documentation by reading classic literature and listening music!
+I'm Sadriddin WHO Java Backend Developer and Problem Solver
+
+My focus is always split between professional backend projects and personal skill enhancement
+
+I believe in using the right tool for the job. Here is my core toolkit:
+Java, Spring Boot, Git, PostgresSQL, REST API, Data Structure, Hibernate, Algorithms
+
+I am always open to interesting conversations, collaborative projects, or discussions about elegant code:
+
+-   📨 **Email:** sadriddindusanov@gmail.com 
+-   💬 **Telegram:** @du84n0v
 
 
 ## 🌐 Socials:
